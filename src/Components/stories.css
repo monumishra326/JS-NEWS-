@@ -1,0 +1,22 @@
+.storydiv{
+   
+    width:80%;
+    /* border: 2px solid red; */
+    /* background-color: aqua; */
+    /* height: 100vh; */
+    
+}
+.mapdiv{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+    height: 90vh;
+}
+.top{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
